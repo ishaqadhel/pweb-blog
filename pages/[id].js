@@ -114,7 +114,7 @@ export default function Post({ page, blocks }) {
     <div>
       <Head>
         <title>{page.properties.Name.title[0].plain_text}</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/image/people-write.png" />
       </Head>
 
       <article className={styles.container}>
