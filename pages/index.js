@@ -23,7 +23,7 @@ export default function Home({ posts }) {
           <p>
             Jonathan Perelman once said that content is king, but distribution
             is queen and she wears the pants. That quotes inspired me to write a
-            content to share my knowledge or my journet to everyone in the world through my blog. Kindly visit my portfolio web{" "}
+            content to share my knowledge and my journey to everyone in the world through my blog. Kindly visit my portfolio web{" "}
             <a href={`https://ishaqadhel.com`}>here</a>.
           </p>
         </header>
